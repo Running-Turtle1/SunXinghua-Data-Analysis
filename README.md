@@ -1,0 +1,2 @@
+- 课程代码（Jupyter）：https://github.com/Running-Turtle1/SunXinghua-Data-Analysis/tree/main/Data%20Analysis
+- 配套补充视频：https://www.bilibili.com/video/BV1ehenzHER3
